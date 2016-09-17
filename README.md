@@ -1,4 +1,4 @@
-# Introduction to machine learning with scikit-learn
+# Introduction to machine learning with scikit-learn #
 
 This repo contains IPython notebooks from my scikit-learn video series, as seen on Kaggle's blog.
 
